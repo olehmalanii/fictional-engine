@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fictional-engine/static/css/main.0a56b52e.chunk.css",
+    "main.js": "/fictional-engine/static/js/main.b567326f.chunk.js",
+    "main.js.map": "/fictional-engine/static/js/main.b567326f.chunk.js.map",
+    "runtime-main.js": "/fictional-engine/static/js/runtime-main.c0b51acb.js",
+    "runtime-main.js.map": "/fictional-engine/static/js/runtime-main.c0b51acb.js.map",
+    "static/js/2.da77daa8.chunk.js": "/fictional-engine/static/js/2.da77daa8.chunk.js",
+    "static/js/2.da77daa8.chunk.js.map": "/fictional-engine/static/js/2.da77daa8.chunk.js.map",
+    "index.html": "/fictional-engine/index.html",
+    "static/css/main.0a56b52e.chunk.css.map": "/fictional-engine/static/css/main.0a56b52e.chunk.css.map",
+    "static/js/2.da77daa8.chunk.js.LICENSE.txt": "/fictional-engine/static/js/2.da77daa8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0b51acb.js",
+    "static/js/2.da77daa8.chunk.js",
+    "static/css/main.0a56b52e.chunk.css",
+    "static/js/main.b567326f.chunk.js"
+  ]
+}
